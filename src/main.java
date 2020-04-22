@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
-public class driver {
+public class main {
 	
 	public static void print_help() {
 		
