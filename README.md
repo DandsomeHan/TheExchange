@@ -9,4 +9,4 @@ and view the entire stack for a specific ticker.
 
 
 Entry Point:
-![Entry]("/img/entry point.jpg")
+![Entry](https://github.com/dandsomehan/theexchange/blob/master/img/entry%20point.JPG?raw=true)
